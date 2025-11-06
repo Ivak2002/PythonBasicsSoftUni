@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db89df12-1b8e-4f6d-a797-00237db83e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ListBasics/Cources.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasics/ListStatistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasics/NumbersFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasics/Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasics/StrangeZoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/EasterGifts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/FaroShuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/FootballCards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/InvertValues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/MultiplesList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/NumberBeggars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/SurvivalOfTheBiggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListBasicsExercise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/AbsoluteValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/CalculateRectangleArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/RepeatString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/AddAndSubtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/CharactersInRange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/EvenNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/MinMaxAndSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/OddAndEvenSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/PalindromeIntegers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/PasswordValidator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/PerfectNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/SmallestOfThreeNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsExercise/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +236,7 @@
       <workItem from="1761676561122" duration="3184000" />
       <workItem from="1762352222154" duration="419000" />
       <workItem from="1762352686168" duration="5464000" />
-      <workItem from="1762468807022" duration="752000" />
+      <workItem from="1762468807022" duration="1739000" />
     </task>
     <servers />
   </component>
