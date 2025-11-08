@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db89df12-1b8e-4f6d-a797-00237db83e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionaries/ASCII Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Odd Occurrences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/Word Synonyms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/AMinerTask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/Capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/CompanyUsers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/CountCharsInAString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/Courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/LegendaryFarming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/PhoneBook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/SoftUniParking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/StudentAcademy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionariesExercise/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseOperations/BinaryDigitsCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseOperations/BitAtPositionOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseOperations/BitDestroyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseOperations/OddTimes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseOperations/P-thBit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitwiseOperations/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +229,7 @@
       <workItem from="1762352686168" duration="5464000" />
       <workItem from="1762468807022" duration="4051000" />
       <workItem from="1762473097917" duration="30000" />
-      <workItem from="1762619765603" duration="607000" />
+      <workItem from="1762619765603" duration="921000" />
     </task>
     <servers />
   </component>
