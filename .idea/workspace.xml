@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db89df12-1b8e-4f6d-a797-00237db83e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/DigitsLettersAndOther.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/RepeatStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/ReverseStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/Substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/TextFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessingExercise/ValidIUsernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessingExercise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchDates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchFullName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchPhoneNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/CaptureNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/ExtractEmails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/FindOccrrencesOfWordInSentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/FindVariableNamesInSentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/Furniture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +235,7 @@
       <workItem from="1762352686168" duration="5464000" />
       <workItem from="1762468807022" duration="4051000" />
       <workItem from="1762473097917" duration="30000" />
-      <workItem from="1762619765603" duration="1229000" />
+      <workItem from="1762619765603" duration="1830000" />
     </task>
     <servers />
   </component>
